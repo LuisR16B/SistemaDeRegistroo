@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Elianny",
+        "apellido": "Romero",
+        "cedula": "28230279",
+        "correo": "elianny@gmail.com",
+        "telefono": "+584247230520"
+    },
+    {
+        "nombre": "Elianny",
+        "apellido": "Romero",
+        "cedula": "29234397",
+        "correo": "elianny@gmail.com",
+        "telefono": "+584247230520"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Rojas",
+        "cedula": "28230278",
+        "correo": "luis@gmail.com",
+        "telefono": "+584242466445"
+    }
+]
